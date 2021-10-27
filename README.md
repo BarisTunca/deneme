@@ -2,6 +2,6 @@
 
 ## Alt Bilgi 
 
-Merhaba 
+Mer
 
 [lorem ipsum] (http://google.com)
